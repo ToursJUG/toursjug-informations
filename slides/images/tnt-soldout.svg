@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<svg width="416" height="176" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+ <title>TNT</title>
+ <desc>Created with Sketch.</desc>
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="none" fill-rule="evenodd" id="Icon">
+   <g id="big-icon" transform="translate(-238.000000, -58.000000)">
+    <g id="TNT" transform="translate(238.000000, 58.000000)">
+     <g id="T" transform="translate(240.000000, 0.000000)">
+      <rect fill="#222333" height="56" id="Rectangle" width="56" x="60" y="120"/>
+      <rect fill="#222333" height="56" id="Rectangle" width="56" x="60" y="60"/>
+      <rect fill="#222333" height="56" id="Rectangle" width="56" x="60" y="0"/>
+      <rect fill="#222333" height="56" id="Rectangle" width="56" x="0" y="0"/>
+      <rect fill="#222333" height="56" id="Rectangle" width="56" x="120" y="0"/>
+      <polygon fill="#FFFFFF" id="1" points="89.485 18.24 81.675 25.115 77 19.725 89.705 9 97.405 9 97.405 47.94 89.485 47.94"/>
+      <path d="m147.905,33.685c-0.44,0.11 -0.88,0.20167 -1.32,0.275c-0.44,0.07333 -0.89833,0.11 -1.375,0.11c-1.83334,0 -3.50166,-0.33 -5.005,-0.99c-1.50334,-0.66 -2.78666,-1.55833 -3.85,-2.695c-1.06334,-1.13667 -1.88833,-2.48416 -2.475,-4.0425c-0.58667,-1.55834 -0.88,-3.21749 -0.88,-4.9775c0,-2.01668 0.37583,-3.84083 1.1275,-5.4725c0.75167,-1.63167 1.77833,-3.03416 3.08,-4.2075c1.30167,-1.17334 2.83249,-2.08083 4.5925,-2.7225c1.76001,-0.64167 3.66666,-0.9625 5.72,-0.9625c2.01668,0 3.91416,0.32083 5.6925,0.9625c1.77834,0.64167 3.31833,1.54916 4.62,2.7225c1.30167,1.17334 2.32833,2.57583 3.08,4.2075c0.75167,1.63167 1.1275,3.45582 1.1275,5.4725c0,1.39334 -0.12833,2.66749 -0.385,3.8225c-0.25667,1.15501 -0.59583,2.24583 -1.0175,3.2725c-0.42167,1.02667 -0.91666,2.0075 -1.485,2.9425c-0.56834,0.935 -1.16416,1.8975 -1.7875,2.8875l-8.525,13.31l-10.065,0l9.13,-13.915zm-6.655,-11.99c0,1.76001 0.57749,3.21749 1.7325,4.3725c1.15501,1.15501 2.66749,1.7325 4.5375,1.7325c1.87001,0 3.38249,-0.57749 4.5375,-1.7325c1.15501,-1.15501 1.7325,-2.61249 1.7325,-4.3725c0,-1.76001 -0.57749,-3.21749 -1.7325,-4.3725c-1.15501,-1.15501 -2.66749,-1.7325 -4.5375,-1.7325c-1.87001,0 -3.38249,0.57749 -4.5375,1.7325c-1.15501,1.15501 -1.7325,2.61249 -1.7325,4.3725z" fill="#FFFFFF" id="9"/>
+      <polygon fill="#6ABFAD" id="Rectangle" points="0 0 56 56 0 56"/>
+      <path d="m18.62,36.885l-4.62,0l0,-4.95l5.28,0l0.935,-6.93l-4.62,0l0,-4.95l5.28,0l1.54,-11.055l5.335,0l-1.54,11.055l5.445,0l1.54,-11.055l5.335,0l-1.54,11.055l4.62,0l0,4.95l-5.28,0l-0.935,6.93l4.62,0l0,4.95l-5.28,0l-1.54,11.055l-5.335,0l1.54,-11.055l-5.445,0l-1.54,11.055l-5.335,0l1.54,-11.055zm12.375,-11.88l-5.445,0l-0.935,6.93l5.445,0l0.935,-6.93z" fill="#FFFFFF" id="#"/>
+     </g>
+     <g fill="#6ABFAD" id="N" transform="translate(120.000000, 60.000000)">
+      <rect height="56" id="Rectangle" width="56" x="0" y="0"/>
+      <rect height="56" id="Rectangle" width="56" x="0" y="60"/>
+      <polygon id="Rectangle" points="60 60 116 60 116 116"/>
+      <polygon id="Rectangle" points="60 0 116 56 60 56"/>
+      <rect height="56" id="Rectangle" width="56" x="120" y="0"/>
+      <rect height="56" id="Rectangle" width="56" x="120" y="60"/>
+     </g>
+     <g fill="#222333" id="T">
+      <rect height="56" id="Rectangle" width="56" x="60" y="120"/>
+      <rect height="56" id="Rectangle" width="56" x="60" y="60"/>
+      <rect height="56" id="Rectangle" width="56" x="60" y="0"/>
+      <rect height="56" id="Rectangle" width="56" x="0" y="0"/>
+      <rect height="56" id="Rectangle" width="56" x="120" y="0"/>
+     </g>
+     <polygon fill="#6ABFAD" id="Rectangle" points="120 0 176 56 120 56"/>
+    </g>
+   </g>
+  </g>
+  <text fill="#ff0000" font-family="Sans-serif" font-size="50" font-weight="bold" id="svg_1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" text-anchor="middle" transform="rotate(-25, 207.966, 88) matrix(1.11884, 0, 0, 1.34562, -14.6005, -24.148)" x="198.939131" xml:space="preserve" y="96.668511">SOLD OUT</text>
+ </g>
+</svg>
