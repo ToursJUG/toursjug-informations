@@ -47,7 +47,7 @@ section.has-dark-background {
 	}
 }
 @mixin bodyBackground() {
-	$bckImage: url("images/toursJuggy.gif") no-repeat bottom 5px left 10px;
+	$bckImage: url("images/toursJuggy_t25.png") no-repeat bottom 5px right 10px, url("images/toursjug.png") no-repeat bottom 10px left 5px;
 	background: $bckImage;
  }
 
